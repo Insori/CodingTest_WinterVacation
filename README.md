@@ -1,3 +1,3 @@
 # Winter vacation 
-One coding test a day
+Solve coding test questions every day
 
