@@ -1,7 +1,9 @@
-# ⭐ Java Coding Test ⭐
+# ⭐ 자바 코딩 테스트 문제 풀기⭐
 
 ---
 
-## Solve coding test questions every day
-### - During the winter vacation 
+## 꾸준히 하기 ❕
+### - 구름에듀 코스프로 2급 자바
+### - 프로그래머스 Level 0
+### - 프로그래머스 Level 1
 
